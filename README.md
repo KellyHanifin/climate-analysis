@@ -2,4 +2,9 @@
 
 This is a set of python scripts designed to analyse climate datafiles 
 
-These materials are from the DIRAC training programme for foundation skills for HPC
+To install a copy of the toolkit, open a terminal and run:
+...
+git clone git@github.com:KellyHanifin/climate-analysis.git
+...
+
+**This code is currently in development and not all features will work**
